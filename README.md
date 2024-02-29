@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SHiKHAwadukle
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning object oriented programming with JAVA.
 
 <!---
 SHiKHAwadukle/SHiKHAwadukle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
